@@ -1,0 +1,15 @@
+Họ tên: [NGUYEN DUC VIET]
+MSSV: [2071020202]
+Lớp: CNTT 20-04
+
+Thông tin bài đánh giá A2.2:
+- Link repository: https://github.com
+- URL GitHub Pages: https://github.io
+- Nguồn xuất bản: Nhánh main / Thư mục /(root)
+- SHA bản cuối đã kiểm chứng: 33234e6
+
+Đường dẫn bộ hồ sơ tài liệu:
+1. Link README.md: https://github.com/blob/main/README.md
+2. Link AI_LOG.md: https://github.com/blob/main/AI_LOG.md
+3. Link RELEASE_NOTES.md: https://github.com/blob/main/RELEASE_NOTES.md
+
